@@ -1,7 +1,9 @@
 # GitDemo
 TestFirstStepsWithGit
+This should be the repositorry for everithing from the HTL 
 
 ### Idea 
-Use **GitHub** to create a new file, then commit and show a basic process.  
+Add the existing smal projects to this repository 
 
 ## Next Step
+when creating a new project, pls create it in the Repoitory folder 
